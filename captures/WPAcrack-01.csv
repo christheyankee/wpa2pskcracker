@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+6C:CD:D6:FB:7C:F1, 2021-12-02 17:42:23, 2021-12-02 17:43:47, 10, 195, WPA2, CCMP, PSK, -17,       89,        1,   0.  0.  0.  0,  13, TwoBrokeGirls, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+94:BF:2D:88:91:54, 2021-12-02 17:42:23, 2021-12-02 17:43:17, -82,     7788, 6C:CD:D6:FB:7C:F1,
+0A:06:80:F0:91:10, 2021-12-02 17:43:05, 2021-12-02 17:43:46, -44,        8, 6C:CD:D6:FB:7C:F1,
+
